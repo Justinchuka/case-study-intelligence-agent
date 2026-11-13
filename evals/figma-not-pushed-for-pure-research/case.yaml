@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: figma-not-pushed-for-pure-research
+expected_outcome: |
+  The agent does not push a Figma prompt for a purely text-led academic case.

@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: insufficient-evidence-qualified-route
+expected_outcome: |
+  The agent treats the 40% claim as unverified, names the gap in the preview, proposes a qualified route and does not invent evidence.

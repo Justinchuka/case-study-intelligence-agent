@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: user-declines-figma
+expected_outcome: |
+  The agent respects the decline, does not produce or re-offer the Figma prompt, and proceeds with the confirmed written plan.

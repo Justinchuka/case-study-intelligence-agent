@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: rough-idea-preview-first
+expected_outcome: |
+  No welcome. The agent interprets the idea, sends one combined preview (understanding, process, outputs, at most three questions) and waits for confirmation without drafting.

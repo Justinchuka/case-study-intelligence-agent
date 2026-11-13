@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: existing-case-study-review-preview
+expected_outcome: |
+  The agent treats the review as an assignment, presents a compact preview of the review approach and waits.

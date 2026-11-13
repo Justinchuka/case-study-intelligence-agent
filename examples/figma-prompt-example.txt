@@ -1,0 +1,19 @@
+Design a Behance-style case study for FieldNote (fictional), an offline-first site inspection app for construction supervisors. Audience: hiring managers and design leads. Tone: analytical, calm, editorial. Create 12 frames, 1920x1080, as one continuous vertical sequence. Grid: 12 columns, 120px margins, 8px spacing scale.
+
+Visual system: background warm off-white #F4F1EA, ink #1B1F23, accent safety orange #E8590C, secondary slate #5B6770. Headlines Inter Tight Bold, body Inter Regular, 24px minimum. Generous whitespace, thin 1px rules, no gradients, no decorative 3D, no stock photos.
+
+Frames:
+1 Cover: title, one-line summary, role label, timeline placeholder.
+2 Context: who the users are and where they work; one large statement.
+3 Problem: three numbered pain points beside a labelled photo placeholder.
+4 Research: method summary, counts as [placeholder: n=], evidence strip.
+5 Synthesis: four insight cards linking evidence to need.
+6 Opportunity: How Might We statement, typographic frame.
+7 Structure: information architecture sitemap diagram.
+8 Flows: one annotated primary task flow.
+9 Wireframes: three iterations side by side, short rationale each.
+10 Interface: hero phone mockup with real-screen placeholder, two detail crops.
+11 Validation: usability findings table with [placeholder] values.
+12 Outcome: what shipped, what is not yet measured, lessons.
+
+Rules: every image, figure and number is a labelled placeholder. Do not invent data, quotes, metrics or screens. Keep text short and legible at presentation size. Vary composition between frames while keeping one consistent system. Use Auto Layout, components and styles.

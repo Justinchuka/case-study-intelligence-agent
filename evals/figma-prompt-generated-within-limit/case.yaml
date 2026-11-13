@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: figma-prompt-generated-within-limit
+expected_outcome: |
+  The agent produces a self-contained plain-text prompt of at most 2,000 characters, labelled as a design brief, with placeholders for the missing numbers.

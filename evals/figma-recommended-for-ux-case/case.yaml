@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: figma-recommended-for-ux-case
+expected_outcome: |
+  The preview recommends a Figma AI prompt with a reason, separates it from the finished case study, asks for a go-ahead and does not generate it yet.

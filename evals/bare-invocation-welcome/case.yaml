@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: bare-invocation-welcome
+expected_outcome: |
+  The agent gives the first-use welcome once and enters standby without launching any workflow.
